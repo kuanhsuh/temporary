@@ -1,0 +1,18 @@
+{
+  "name": "2021.07-fcc-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable-node": "^0.1.20",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.17",
+    "stripe": "^8.131.1"
+  }
+}
